@@ -1,6 +1,6 @@
-# ci-test
+# jenkins-nodejs-ci-test
 
- Continuous integration environment test project
+ Test project of jenkins-nodejs continuous integration environment building
 
  ## References
 
