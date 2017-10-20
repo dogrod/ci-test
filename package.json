@@ -1,0 +1,22 @@
+{
+  "name": "ci-test",
+  "version": "0.1.0",
+  "description": "Continuous integration environment test project of dogrod.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dogrod/ci-test.git"
+  },
+  "keywords": [
+    "ci"
+  ],
+  "author": "dogrod <rodrickjue@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dogrod/ci-test/issues"
+  },
+  "homepage": "https://github.com/dogrod/ci-test#readme"
+}
