@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/dogrod/ci-test#readme",
   "dependencies": {
+    "axios": "^0.17.1",
     "express": "^4.16.2"
   },
   "devDependencies": {
