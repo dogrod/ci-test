@@ -20,7 +20,9 @@ app.get('/', (req, res) => {
         }
 
         const result = data.result
-        return res.send(`Hello, Your IP address: ${ip}\nArea: ${result.area}\nLocation: ${result.location}`)
+        return res.send(`Hello, Your IP address: ${ip}
+                         Area: ${result.area}
+                         Location: ${result.location}`)
       })
     
   } catch (error) {
